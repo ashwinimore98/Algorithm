@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALGO", "ALGO.csproj", "{D6EAE6C3-A7CB-47DA-8A00-5D877F039D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6EAE6C3-A7CB-47DA-8A00-5D877F039D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EAE6C3-A7CB-47DA-8A00-5D877F039D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EAE6C3-A7CB-47DA-8A00-5D877F039D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EAE6C3-A7CB-47DA-8A00-5D877F039D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB12AA7-9AC2-41F0-AAFA-DC01A5EE9118}
+	EndGlobalSection
+EndGlobal
